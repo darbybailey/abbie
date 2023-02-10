@@ -60,6 +60,7 @@ const Home = () => {
     <div className="root">
       <Head>
         <title>ABBIE - automate your lesson plans</title>
+        <script async defer src="https://analytics.umami.is/script.js" data-website-id="8060ac97-727b-47a5-a5cb-e0f3cbe11201"></script>
       </Head>
       <div className="container">
         <div className="header">
